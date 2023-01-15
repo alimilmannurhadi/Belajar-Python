@@ -1,7 +1,8 @@
 # Belajar-Python
 Kumpulan baris code hasil belajar coding Python dari Internet
 
-1. https://www.youtube.com/playlist?list=PLIeJsyt_FUfIeFxVGGNtXrdtaa83NVA2y from https://www.youtube.com/@megabagusherlambang
-2. https://www.youtube.com/playlist?list=PL2O3HdJI4voGzh8BtjRcm_7-O-AsT3TMm from https://www.youtube.com/@belajaridn
-3. https://www.hackerrank.com/domains/python
-4. Pythonic ways?
+1. Simple Case From Social Media 
+2. Python Masterclass Indonesia from Mega Bagus Herlambang - https://www.youtube.com/playlist?list=PLIeJsyt_FUfIeFxVGGNtXrdtaa83NVA2y
+3. Python Full Course from Bro Code - https://youtu.be/XKHEtdqhLK8
+4. Pythonic from Indonesia Belajar - https://www.youtube.com/playlist?list=PL2O3HdJI4voGzh8BtjRcm_7-O-AsT3TMm
+5. Hackerrank from https://www.hackerrank.com/domains/python
