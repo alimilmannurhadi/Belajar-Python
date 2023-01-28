@@ -7,3 +7,4 @@ Kumpulan baris code hasil belajar coding Python dari Internet
 4. Pythonic from Indonesia Belajar - https://www.youtube.com/playlist?list=PL2O3HdJI4voGzh8BtjRcm_7-O-AsT3TMm
 5. Hackerrank from https://www.hackerrank.com/domains/python
 6. Library - https://www.youtube.com/@coreyms/featured
+7. https://ocw.mit.edu/courses 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/download/
